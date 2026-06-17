@@ -1,3 +1,1 @@
-# github-testing
-
-This is a new feature
+Hello!!! from conflict branch
